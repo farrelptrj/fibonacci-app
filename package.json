@@ -1,0 +1,14 @@
+{
+  "name": "fibonacci-js",
+  "version": "1.0.0",
+  "description": "A simple Fibonacci generator for terminal (Node.js)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:7": "node index.js 7",
+    "test": "node test/fib.test.js"
+  },
+  "keywords": ["fibonacci", "cli", "node"],
+  "author": "Nama Kamu",
+  "license": "MIT"
+}
