@@ -26,3 +26,5 @@ if (Number.isNaN(n) || n < 0 || !Number.isInteger(n)) {
 
 const seq = fibonacci(n);
 console.log(seq.join(", "));
+console.log("Hello World");
+
